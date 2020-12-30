@@ -12,7 +12,7 @@ An example
 H2 Headline
 ===========
 
-.. include:: ../README.md
+.. include:: README.md
 
 Generierte Indizes
 ==================
